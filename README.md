@@ -40,16 +40,16 @@ sudoku.exe
 ```
 
 ## 🔍 Algorithms Used
-✅ Backtracking for solving
-✅ Randomized generation ensuring solvable puzzles
-✅ Validation to follow Sudoku rules
+ - ✅ Backtracking for solving
+ - ✅ Randomized generation ensuring solvable puzzles
+ - ✅ Validation to follow Sudoku rules
 
 ## 📚 Concepts Covered
-- Recursion
-- Arrays and nested loops
-- Puzzle generation logic
-- Console-based UI in C
-- File and folder structure organization
+- ✅ Recursion
+- ✅ Arrays and nested loops
+- ✅ Puzzle generation logic
+- ✅ Console-based UI in C
+- ✅ File and folder structure organization
 
 ## 👩‍💻 Author
 Riya Shah
