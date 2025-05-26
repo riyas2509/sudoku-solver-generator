@@ -4,10 +4,10 @@ A simple C program that can **generate** and **solve** Sudoku puzzles. Built to 
 
 ## 🧩 Features
 
-- ✅ Sudoku Solver using backtracking algorithm
-- ✅ Random Sudoku Generator
-- ✅ Console-based interface
-- ✅ Easy-to-read code structure
+- Sudoku Solver using backtracking algorithm
+- Random Sudoku Generator
+- Console-based interface
+- Easy-to-read code structure
 
 ## 📁 File Structure
 
@@ -40,17 +40,17 @@ sudoku.exe
 ```
 
 ## 🔍 Algorithms Used
- - ✅ Backtracking for solving
- - ✅ Randomized generation ensuring solvable puzzles
- - ✅ Validation to follow Sudoku rules
+ - Backtracking for solving
+ - Randomized generation ensuring solvable puzzles
+ - Validation to follow Sudoku rules
 
 ## 📚 Concepts Covered
-- ✅ Recursion
-- ✅ Arrays and nested loops
-- ✅ Puzzle generation logic
-- ✅ Console-based UI in C
-- ✅ File and folder structure organization
+- Recursion
+- Arrays and nested loops
+- Puzzle generation logic
+- Console-based UI in C
+- File and folder structure organization
 
 ## 👩‍💻 Author
 Riya Shah
-📌 Created as a mini project using C and Visual Studio Code
+#### 📌Created as a mini project using C and Visual Studio Code
